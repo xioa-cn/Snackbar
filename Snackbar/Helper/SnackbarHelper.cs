@@ -84,5 +84,27 @@ namespace Snackbar.Helper
             });
 
         }
+
+
+        public static void Show(string message, string windowTitle, long duration = 1000)
+        {
+            var window = WindowHelper.FindWindowByTitle(windowTitle);
+            if (window is null) return;
+            TimeSpan time = TimeSpan.FromMilliseconds(duration);
+            window.Dispatcher.Invoke(() =>
+            {
+                try
+                {
+                    var snackbar = CreateSnackbar(message, time);
+                    AddSnackbarToWindow(window, snackbar);
+                    snackbar.IsActive = true;
+                    System.Diagnostics.Debug.WriteLine("Snackbar已创建并激活");
+                }
+                catch (Exception ex)
+                {
+                    System.Diagnostics.Debug.WriteLine($"创建Snackbar时出错: {ex.Message}");
+                }
+            });
+        }
     }
 }

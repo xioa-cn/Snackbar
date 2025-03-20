@@ -14,3 +14,4 @@ F:\git\github\Snackbar\Snackbar\obj\Debug\net8.0-windows\Snackbar.dll
 F:\git\github\Snackbar\Snackbar\obj\Debug\net8.0-windows\refint\Snackbar.dll
 F:\git\github\Snackbar\Snackbar\obj\Debug\net8.0-windows\Snackbar.pdb
 F:\git\github\Snackbar\Snackbar\obj\Debug\net8.0-windows\ref\Snackbar.dll
+F:\git\github\Snackbar\Snackbar\obj\Debug\net8.0-windows\Snackbar.sourcelink.json

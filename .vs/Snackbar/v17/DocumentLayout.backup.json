@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "F:\\git\\github\\Snackbar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|f:\\git\\github\\snackbar\\snackbar\\helper\\snackbarhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|solutionrelative:snackbar\\helper\\snackbarhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|f:\\git\\github\\snackbar\\snackbardemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|solutionrelative:snackbardemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|f:\\git\\github\\snackbar\\snackbardemo\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|solutionrelative:snackbardemo\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|f:\\git\\github\\snackbar\\snackbar\\helper\\snackbarhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|solutionrelative:snackbar\\helper\\snackbarhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|f:\\git\\github\\snackbar\\snackbardemo\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|solutionrelative:snackbardemo\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|f:\\git\\github\\snackbar\\snackbardemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|solutionrelative:snackbardemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|f:\\git\\github\\snackbar\\snackbar\\helper\\windowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|solutionrelative:snackbar\\helper\\windowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|f:\\git\\github\\snackbar\\snackbar\\controls\\snackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|solutionrelative:snackbar\\controls\\snackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EB8CBED-1D70-4F55-8545-4D4D6BCF8D75}|SnackbarDemo\\SnackbarDemo.csproj|f:\\git\\github\\snackbar\\snackbardemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|f:\\git\\github\\snackbar\\snackbar\\controls\\snackbaradorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|solutionrelative:snackbar\\controls\\snackbaradorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|f:\\git\\github\\snackbar\\snackbar\\controls\\snackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC5D2F75-045D-4013-AC5E-79E2E50D42AC}|Snackbar\\Snackbar.csproj|solutionrelative:snackbar\\controls\\snackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,45 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "F:\\git\\github\\Snackbar\\SnackbarDemo\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "SnackbarDemo\\Window1.xaml.cs",
+              "ToolTip": "F:\\git\\github\\Snackbar\\SnackbarDemo\\Window1.xaml.cs",
+              "RelativeToolTip": "SnackbarDemo\\Window1.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:16:41.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "F:\\git\\github\\Snackbar\\SnackbarDemo\\Window1.xaml",
+              "RelativeDocumentMoniker": "SnackbarDemo\\Window1.xaml",
+              "ToolTip": "F:\\git\\github\\Snackbar\\SnackbarDemo\\Window1.xaml",
+              "RelativeToolTip": "SnackbarDemo\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T07:16:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowHelper.cs",
+              "DocumentMoniker": "F:\\git\\github\\Snackbar\\Snackbar\\Helper\\WindowHelper.cs",
+              "RelativeDocumentMoniker": "Snackbar\\Helper\\WindowHelper.cs",
+              "ToolTip": "F:\\git\\github\\Snackbar\\Snackbar\\Helper\\WindowHelper.cs",
+              "RelativeToolTip": "Snackbar\\Helper\\WindowHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:07:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "App.xaml",
               "DocumentMoniker": "F:\\git\\github\\Snackbar\\SnackbarDemo\\App.xaml",
               "RelativeDocumentMoniker": "SnackbarDemo\\App.xaml",
@@ -54,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "F:\\git\\github\\Snackbar\\SnackbarDemo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SnackbarDemo\\MainWindow.xaml",
@@ -66,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "F:\\git\\github\\Snackbar\\SnackbarDemo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SnackbarDemo\\MainWindow.xaml.cs",
               "ToolTip": "F:\\git\\github\\Snackbar\\SnackbarDemo\\MainWindow.xaml.cs",
               "RelativeToolTip": "SnackbarDemo\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T04:26:26.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Snackbar.xaml",
               "DocumentMoniker": "F:\\git\\github\\Snackbar\\Snackbar\\Themes\\Snackbar.xaml",
               "RelativeDocumentMoniker": "Snackbar\\Themes\\Snackbar.xaml",
@@ -91,20 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SnackbarHelper.cs",
               "DocumentMoniker": "F:\\git\\github\\Snackbar\\Snackbar\\Helper\\SnackbarHelper.cs",
               "RelativeDocumentMoniker": "Snackbar\\Helper\\SnackbarHelper.cs",
               "ToolTip": "F:\\git\\github\\Snackbar\\Snackbar\\Helper\\SnackbarHelper.cs",
               "RelativeToolTip": "Snackbar\\Helper\\SnackbarHelper.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwC0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwFgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T04:23:24.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SnackbarAdorner.cs",
               "DocumentMoniker": "F:\\git\\github\\Snackbar\\Snackbar\\Controls\\SnackbarAdorner.cs",
               "RelativeDocumentMoniker": "Snackbar\\Controls\\SnackbarAdorner.cs",
@@ -112,8 +162,7 @@
               "RelativeToolTip": "Snackbar\\Controls\\SnackbarAdorner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T04:22:59.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T04:22:59.073Z"
             },
             {
               "$type": "Document",
@@ -123,7 +172,7 @@
               "RelativeDocumentMoniker": "Snackbar\\Controls\\Snackbar.cs",
               "ToolTip": "F:\\git\\github\\Snackbar\\Snackbar\\Controls\\Snackbar.cs",
               "RelativeToolTip": "Snackbar\\Controls\\Snackbar.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAIA3wDMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T04:22:07.72Z",
               "EditorCaption": ""

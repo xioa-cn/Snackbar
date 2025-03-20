@@ -4,7 +4,6 @@ F:\git\github\Snackbar\SnackbarDemo\bin\Debug\net8.0-windows\SnackbarDemo.runtim
 F:\git\github\Snackbar\SnackbarDemo\bin\Debug\net8.0-windows\SnackbarDemo.dll
 F:\git\github\Snackbar\SnackbarDemo\bin\Debug\net8.0-windows\SnackbarDemo.pdb
 F:\git\github\Snackbar\SnackbarDemo\bin\Debug\net8.0-windows\Snackbar.dll
-F:\git\github\Snackbar\SnackbarDemo\bin\Debug\net8.0-windows\Snackbar.pdb
 F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\SnackbarDemo.csproj.AssemblyReference.cache
 F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\MainWindow.g.cs
 F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\App.g.cs
@@ -23,3 +22,7 @@ F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\refint\SnackbarDemo
 F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\SnackbarDemo.pdb
 F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\SnackbarDemo.genruntimeconfig.cache
 F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\ref\SnackbarDemo.dll
+F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\SnackbarDemo.sourcelink.json
+F:\git\github\Snackbar\SnackbarDemo\bin\Debug\net8.0-windows\Snackbar.pdb
+F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\Window1.g.cs
+F:\git\github\Snackbar\SnackbarDemo\obj\Debug\net8.0-windows\Window1.baml
